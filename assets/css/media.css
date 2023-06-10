@@ -1,0 +1,1341 @@
+/*@media (max-width: 1440px) {*/
+
+/*    header {*/
+/*        height: 77px;*/
+/*    }*/
+
+/*    #headerLogo {*/
+/*        width:10px;*/
+/*    }*/
+
+/*    .main-img {*/
+/*        width: 15rem;*/
+/*        height: 15rem;*/
+/*        left: 40px;*/
+/*        border-radius:70%;*/
+/*        margin-top: 170px;*/
+/*        box-shadow: -10px 12px 30px -3px #c9c9ce;*/
+
+
+/*    }*/
+
+/*    .main-img img {*/
+/*        height: 70%;*/
+/*        width:70%;*/
+/*        border-radius:50%;*/
+/*    }*/
+
+
+/*    #home #span1 {*/
+/*        top: 28vh;*/
+/*        font-size: 20px;*/
+
+
+/*    }*/
+
+/*    #home #span3 {*/
+/*        top: 290px;*/
+/*        font-size: 15px;*/
+/*    }*/
+
+/*    #home #span4 {*/
+/*        top: 320px;*/
+/*        font-size: 20px;*/
+/*    }*/
+
+
+/*    #home button {*/
+/*        top: 460px;*/
+/*        width: 120px;*/
+/*        height: 42px;*/
+/*    }*/
+
+
+
+/*    #socialLinks {*/
+/*        bottom: 28px;*/
+/*        left: 350px;*/
+/*        width: 80%;*/
+/*        top: 340px;*/
+/*    }*/
+
+
+
+/*    !*about*!*/
+/*    #about article {*/
+/*        top: 5vw;*/
+/*    }*/
+
+/*    #dp2 {*/
+/*        width:300px;*/
+
+/*    }*/
+
+/*    #about button {*/
+/*        top: 37vw;*/
+/*    }*/
+
+
+
+/*    !*!* skills*!*/
+
+
+/*    #skillFlex figure {*/
+/*        padding: 6px;*/
+
+/*    }*/
+
+
+/*    #skills aside {*/
+/*        padding-top:8%;*/
+/*    }*/
+
+/*    #content img{*/
+/*        width:45px;*/
+/*        position: absolute;*/
+/*        top: 30px;*/
+/*        left: 25px;*/
+
+/*    }*/
+
+
+/*    !*education*!*/
+/*    #education img {*/
+/*        width: 80px;*/
+/*    }*/
+
+/*    #education #education1 {*/
+/*        font-size: 18px;*/
+/*    }*/
+
+/*    #education #education2 {*/
+/*        font-size: 18px;*/
+/*    }*/
+
+/*    #education #education3 {*/
+/*        font-size: 18px;*/
+/*    }*/
+
+
+
+
+
+/*    !*projects*!*/
+/*    .swiper-container {*/
+/*        width: 800px;*/
+/*        display: block;*/
+/*        top: 181px;*/
+/*        height: 380px;*/
+/*    }*/
+
+/*    #projects img{*/
+/*        height:150px;*/
+/*        width:200px;*/
+/*    }*/
+
+
+/*    !*contact*!*/
+
+/*    #send img{*/
+/*        width: 20px;*/
+/*    }*/
+
+
+/*}*/
+
+/*@media all and (min-width: 1192px) and (max-width: 1440px) {*/
+/*    header {*/
+/*        height: 77px;*/
+/*    }*/
+
+/*    #headerLogo {*/
+/*        width:50px;*/
+/*    }*/
+
+
+/*    header > nav {*/
+/*        padding: 21px;*/
+/*    }*/
+
+
+/*    .main-img {*/
+/*        width: 15rem;*/
+/*        height: 15rem;*/
+/*        left: 150px;*/
+/*    }*/
+
+
+/*    !*skill*!*/
+/*    #skillFlex figure {*/
+/*        padding: 8px;*/
+/*    }*/
+
+
+/*    #content {*/
+/*        height: 77vh;*/
+/*        width: 95vh;*/
+/*        top: 150px;*/
+/*        left: 26%;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(1) h4 {*/
+/*        top: -21vh;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(2) h4 {*/
+/*        top: -21vh;*/
+/*    }*/
+
+/*    #content img {*/
+/*        top: 41px;*/
+
+/*    }*/
+
+/*    #content p {*/
+/*        width: 112px;*/
+/*        top: 71px;*/
+/*        left: 30px;*/
+/*    }*/
+
+/*    #socialLinks {*/
+/*        left:530px;*/
+/*        width:500px;*/
+/*    }*/
+
+/*    #home button {*/
+/*        top:400px;*/
+/*        width: 149px;*/
+/*        left: 55vw;*/
+/*    }*/
+/*}*/
+
+/*@media all and (min-width: 1024px) and (max-width: 1192px) {*/
+
+/*    body{*/
+
+/*    }*/
+/*    header {*/
+/*        height: 69px;*/
+/*    }*/
+
+/*    #headerLogo {*/
+/*        width: 52px;*/
+/*    }*/
+
+/*    header > nav {*/
+/*        padding: 16px;*/
+/*    }*/
+
+/*    !*home*!*/
+/*    #home #span2 {*/
+/*        font-size: 58px;*/
+/*    }*/
+
+/*    #content img {*/
+/*        width: 35px;*/
+/*        top: 46px;*/
+
+/*    }*/
+
+/*    #socialLinks {*/
+/*        bottom: 29px;*/
+/*        right: 253px;*/
+/*        width: 30%;*/
+/*    }*/
+
+/*    #socialLinks {*/
+/*        bottom: 29px;*/
+/*        right: 25vw;*/
+/*        width: 349px;*/
+/*    }*/
+
+/*    #home button{*/
+/*        top:400px;*/
+/*        width: 149px;*/
+/*        left: 55vw;*/
+
+/*    }*/
+
+
+/*    #about article p {*/
+/*        font-size: 19px;*/
+/*        width: 454px;*/
+/*    }*/
+
+/*    #about button {*/
+/*        top: 426px;*/
+/*        left: 38vw;*/
+/*    }*/
+
+/*    #content {*/
+/*        height: 79vh;*/
+/*        width: 100vh;*/
+/*        top: 170px;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #content p {*/
+/*        width: 112px;*/
+/*        top: 80px;*/
+/*        left: 30px;*/
+/*        font-size: 19px;*/
+/*    }*/
+
+/*    !*skills*!*/
+/*    #bigDiv div:nth-child(1) h4 {*/
+/*        left: 7vw;*/
+/*        top: -21vh;*/
+/*        font-size: 14px;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(2) h4 {*/
+/*        left: 7vw;*/
+/*        top: -21vh;*/
+/*        font-size: 14px;*/
+/*    }*/
+/*}*/
+/*////////////////////////////////////////////////////////////////*/
+/*@media all and (min-width: 768px) and (max-width: 1024px) {*/
+
+/*    header {*/
+/*        height: 66px;*/
+/*    }*/
+
+/*    #headerLogo {*/
+/*        width: 53px;*/
+/*    }*/
+
+/*    header > nav {*/
+/*        padding: 17px;*/
+/*    }*/
+
+
+
+/*    !*home*!*/
+
+
+/*    .multiText {*/
+/*        top:35vh;*/
+/*        left:40vw;*/
+/*        position: absolute;*/
+/*        font-size:40px;*/
+/*    }*/
+
+/*    #home #span1 {*/
+/*        font-size:35px;*/
+/*    }*/
+
+/*    #home #span2 {*/
+/*        font-size: 46px;*/
+/*        top:400px;*/
+/*    }*/
+
+/*    #home #span3 {*/
+/*        top:43vh;*/
+/*        font-size:25px;*/
+/*    }*/
+
+/*    #home #span4 {*/
+/*        top:50vh;*/
+/*        font-size:25px;*/
+/*    }*/
+
+
+/*    #socialLinks {*/
+/*        top:550px;*/
+/*        bottom: 31px;*/
+/*        right: 21vw;*/
+/*        width: 305px;*/
+/*    }*/
+
+
+/*    #home button{*/
+/*        top:800px;*/
+/*        left:60px;*/
+/*    }*/
+
+
+/*    !*about*!*/
+/*    #dp2 {*/
+/*        width: 312px;*/
+/*        right: 38px;*/
+/*    }*/
+
+
+/*    #about article p {*/
+/*        font-size: 18px;*/
+/*        width: 352px;*/
+/*    }*/
+
+/*    #about button {*/
+/*        top: 430px;*/
+/*        left: 27vw;*/
+/*    }*/
+
+/*    #about article h1 {*/
+/*        font-size: 28px;*/
+/*    }*/
+
+/*    #about article h3 {*/
+/*        font-size: 16px;*/
+/*    }*/
+
+/*    !*service*!*/
+/*    #content {*/
+/*        height: 70vh;*/
+/*        top: 170px;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #content p {*/
+/*        top: 66px;*/
+/*        left: 14px;*/
+/*        font-size: 18px;*/
+/*    }*/
+
+/*    #content div {*/
+/*        width: 23%;*/
+/*    }*/
+
+/*    #content img {*/
+/*        top: 37px;*/
+/*    }*/
+
+/*    !*service*!*/
+/*    #skills h3 {*/
+/*        font-size: 17px;*/
+/*    }*/
+
+/*    #skills h1 {*/
+/*        font-size: 23px;*/
+/*    }*/
+
+/*    #skills p {*/
+/*        font-size: 15px;*/
+/*    }*/
+
+/*    #skills aside {*/
+/*        padding-top: 8%;*/
+/*        left: 67px;*/
+/*    }*/
+
+/*    #bigDiv {*/
+/*        top: 207px;*/
+/*        left: -20%;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(1) h4 {*/
+/*        left: 9vw;*/
+/*        top: -122px;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(2) h4 {*/
+/*        position: absolute;*/
+/*        left: 11vw;*/
+/*        top: 121px;*/
+/*    }*/
+
+/*    #skillFlex {*/
+/*        height: 44vh;*/
+/*        width: 36vh;*/
+/*        top: -244px;*/
+/*        left: 48vw;*/
+/*    }*/
+
+/*    #skillFlex img {*/
+/*        padding-top: 4px;*/
+/*        width: 47px;*/
+/*    }*/
+
+/*    #mysql {*/
+/*        width: 66px !important;*/
+/*    }*/
+
+/*    #skillFlex figure {*/
+/*        padding: 4px;*/
+/*        width: 82px;*/
+/*    }*/
+
+/*    #skillFlex figure figcaption {*/
+/*        width: 90px;*/
+/*        font-size: 13px;*/
+/*        top: 65px;*/
+/*    }*/
+
+/*    !*projects*!*/
+/*    .assignment {*/
+/*        position: relative;*/
+/*        width: 100%;*/
+/*    }*/
+
+/*    .swiper-container {*/
+/*        width: 700px;*/
+/*    }*/
+
+/*    .swiper-slide {*/
+/*        box-shadow: none;*/
+/*    }*/
+
+
+/*    .card {*/
+/*        width: 300px;*/
+/*    }*/
+
+/*    .content h2 {*/
+/*        left: -88px;*/
+/*    }*/
+
+/*    .content p {*/
+/*        width: 240px;*/
+/*    }*/
+
+/*    #assignment7, #assignment8 {*/
+/*        width: 100%;*/
+/*    }*/
+
+/*    #assignments {*/
+/*        top: 104px;*/
+/*        font-size: 28px;*/
+
+/*    }*/
+
+/*    !*contact*!*/
+/*    #contact div:nth-child(2) {*/
+/*        left: 9vw;*/
+/*    }*/
+
+/*}*/
+
+
+/*@media all and (min-width: 600px) and (max-width: 767px){*/
+/*    !*header*!*/
+/*    #headerLogo {*/
+/*        width: 39px;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: -6px auto;*/
+/*    }*/
+
+/*    header {*/
+/*        height: 40px;*/
+/*    }*/
+
+/*    .navigation {*/
+/*        display: none;*/
+/*    }*/
+
+/*    !*home*!*/
+
+
+
+/*    #home #span1 {*/
+/*        top: 24vh;*/
+/*        font-size: 19px;*/
+/*    }*/
+
+/*    #home #span2 {*/
+/*        font-size: 44px;*/
+/*        left: 57vw;*/
+/*    }*/
+
+/*    #home #span3 {*/
+/*        top: 50vh;*/
+/*    }*/
+
+/*    #socialLinks {*/
+/*        flex-direction: column;*/
+/*        top: -79px;*/
+/*        left: 0;*/
+/*        width: 68px;*/
+/*    }*/
+
+/*    #socialLinks .sLink {*/
+/*        width: 31px;*/
+/*        padding-top: 20px;*/
+/*    }*/
+
+/*    #home button {*/
+/*        left: 19vw;*/
+/*        width: 116px;*/
+/*        height: 40px;*/
+/*        font-size: 19px;*/
+/*        top: 425px;*/
+/*    }*/
+
+
+/*    !*about*!*/
+
+/*    #dp2 {*/
+/*        width: 265px;*/
+/*        right: 6vw;*/
+/*    }*/
+
+
+/*    #about article h3 {*/
+/*        font-size: 18px;*/
+/*        position: absolute;*/
+/*        left: 55px;*/
+/*        width: 100px;*/
+/*        top: -40px;*/
+/*    }*/
+
+/*    #about article p {*/
+/*        font-size: 16px;*/
+/*        width: 57vw;*/
+/*        left: 55px;*/
+/*        bottom: -270px;*/
+/*        position: absolute;*/
+/*    }*/
+
+/*    #about article h1 {*/
+/*        font-size: 20px;*/
+/*        position: absolute;*/
+/*        left: 54px;*/
+/*        top: 4px;*/
+/*        width: 500px;*/
+/*    }*/
+
+/*    #about button {*/
+/*        left: 19vw;*/
+/*        width: 118px;*/
+/*        top: 111px;*/
+/*        height: 32px;*/
+/*        font-size: 16px;*/
+/*        bottom: -240px;*/
+/*    }*/
+
+/*    !*service*!*/
+
+/*    #service h1 {*/
+/*        position: absolute;*/
+/*        top: 60px;*/
+/*        font-size: 26px;*/
+/*        left: 42vw;*/
+/*    }*/
+
+/*    #content div {*/
+/*        margin: 20px;*/
+/*        padding: 12px;*/
+/*        width: 23%;*/
+/*        height: 28%;*/
+/*    }*/
+
+/*    #content {*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*        top: 128px;*/
+/*    }*/
+
+/*    #content img {*/
+/*        width: 35px;*/
+/*        top: 27px;*/
+/*    }*/
+
+/*    #content p {*/
+/*        top: 62px;*/
+/*        left: 20px;*/
+/*    }*/
+
+/*    !*skills*!*/
+
+/*    #skills h3 {*/
+/*        position: absolute;*/
+/*        right: -34vw;*/
+/*        top: 25px;*/
+/*        font-size: 17px;*/
+/*    }*/
+
+/*    #skills p {*/
+/*        position: absolute;*/
+/*        color: #D2CECE;*/
+/*        left: 253px;*/
+/*        top: 72px;*/
+/*        width: 79vw;*/
+/*    }*/
+
+/*    #skillFlex figure {*/
+/*        padding: 7px;*/
+/*        width: 86px;*/
+/*    }*/
+
+/*    #skillFlex {*/
+/*        left: -9%;*/
+/*        flex-direction: column;*/
+/*        width: 270px;*/
+/*        height: 265px;*/
+/*        top: -24px;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #skillFlex img {*/
+/*        width: 63px;*/
+/*        margin-left: 11px;*/
+/*    }*/
+
+/*    #bigDiv {*/
+/*        height: 79vh;*/
+/*        width: 77vh;*/
+/*        top: 45vh;*/
+/*        left: -33%;*/
+/*    }*/
+
+/*    #bigDiv div {*/
+/*        left: 315px;*/
+/*        width: 27%;*/
+/*        height: 30%;*/
+/*        right: 0;*/
+/*        top: -205px;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(1) h4 {*/
+/*        left: 11vw;*/
+/*        top: -21vh;*/
+/*        width: 70px;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(2) h4 {*/
+/*        left: 11vw;*/
+/*        top: -21vh;*/
+/*    }*/
+
+/*    !*assignments*!*/
+/*    .swiper-container {*/
+/*        width: 400px;*/
+/*    }*/
+
+
+/*    !*contact*!*/
+
+/*    #contact div:nth-child(2) {*/
+/*        left: 6vw;*/
+/*    }*/
+
+/*    #contact div:nth-child(3) {*/
+/*        right: 6vw;*/
+/*    }*/
+
+/*    #send img {*/
+/*        width: 22px;*/
+/*    }*/
+
+/*    #contact #send {*/
+/*        top: 20px;*/
+/*        left: 3vw;*/
+/*    }*/
+
+/*    footer >address >small {*/
+/*        font-size: 10px;*/
+/*    }*/
+
+/*    footer >address > img {*/
+/*        width: 24px;*/
+/*        bottom: 20px;*/
+/*    }*/
+
+/*    !*commented*!*/
+
+
+
+/*    #home #span2 {*/
+/*        font-size: 44px;*/
+/*    }*/
+
+/*    #skills aside {*/
+/*        position: relative;*/
+/*        left: -27%;*/
+/*        padding-top: 13%;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        width: 25%;*/
+/*    }*/
+
+/*    #skills aside {*/
+/*        margin: -40px;*/
+/*        position: relative;*/
+/*        left: -27%;*/
+/*        padding-top: 13%;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        width: 25%;*/
+/*    }*/
+
+/*    #about article {*/
+/*        position: relative;*/
+/*        left: -1vw;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        top: 10vw;*/
+/*        display: inline-block;*/
+/*    }*/
+/*}*/
+
+/*@media all and (min-width: 425px) and (max-width: 599px) {*/
+/*    !*header*!*/
+/*    #headerLogo {*/
+/*        width: 39px;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: -6px auto;*/
+/*    }*/
+
+/*    header {*/
+/*        height: 40px;*/
+/*    }*/
+
+/*    !*home*!*/
+/*    .box {*/
+/*        display: none;*/
+/*    }*/
+
+/*    #dp1 {*/
+/*        width: 250px;*/
+/*        left: 7px;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*        position: relative;*/
+/*        top: 118px;*/
+/*    }*/
+
+/*    #home #span1 {*/
+/*        font-size: 23px;*/
+/*        left: 57vw;*/
+/*    }*/
+
+/*    #home #span2 {*/
+/*        font-size: 40px;*/
+/*        left: 49vw;*/
+/*    }*/
+
+/*    #home #span3 {*/
+/*        top: 48vh;*/
+/*        left: 72vw;*/
+/*        font-size: 20px;*/
+/*    }*/
+
+/*    #home ul {*/
+/*        top: 57vh;*/
+/*        right: 0;*/
+/*        left: 29vw;*/
+/*        margin: auto;*/
+/*        font-size: 21px;*/
+/*    }*/
+
+/*    #home button {*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        width: 125px;*/
+/*        top: 463px;*/
+/*        margin: auto;*/
+/*        height: 43px;*/
+/*        font-size: 21px;*/
+/*    }*/
+
+/*    #br1 {*/
+/*        display: none;*/
+/*    }*/
+
+/*    #socialLinks {*/
+/*        flex-direction: column;*/
+/*        bottom: 28px;*/
+/*        left: -133px;*/
+/*        width: 328px;*/
+/*    }*/
+
+/*    #socialLinks .sLink {*/
+/*        width: 28px;*/
+/*        padding-top: 20px;*/
+/*    }*/
+
+/*    !*about*!*/
+/*    #dp2 {*/
+/*        width: 209px;*/
+/*        right: 17px;*/
+/*    }*/
+
+
+/*    #br2 {*/
+/*        width: 273px;*/
+/*        right: 17px;*/
+/*    }*/
+
+/*    #about article h3 {*/
+/*        font-size: 17px;*/
+/*        width: 115px;*/
+/*        left: 34px;*/
+/*        position: relative;*/
+/*    }*/
+
+/*    #about article h1 {*/
+/*        color: #E7E7E7;*/
+/*        font-size: 18px;*/
+/*        width: 82vw;*/
+/*        position: relative;*/
+/*        left: 37px;*/
+/*    }*/
+
+/*    #about article p {*/
+/*        color: #B9BCCB;*/
+/*        font-size: 15px;*/
+/*        width: 290px;*/
+/*        left: 36px;*/
+/*        top: 90px;*/
+/*        position: absolute;*/
+/*    }*/
+/*    #about button {*/
+/*        bottom: -92px;*/
+/*        left: 34px;*/
+/*        width: 119px;*/
+/*        height: 35px;*/
+/*        font-size: 16px;*/
+/*    }*/
+
+
+/*    #contact div:nth-child(3) {*/
+/*        display: none;*/
+/*    }*/
+
+/*    #contact div:nth-child(2) {*/
+/*        top: -24px;*/
+/*        left: 20vw;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+
+/*    !*services*!*/
+
+/*    #service h1 {*/
+/*        position: absolute;*/
+/*        top: 4%;*/
+/*        left: 31%;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #content {*/
+/*        height: 47vh;*/
+/*        width: 56vh;*/
+/*        flex-direction: row;*/
+/*        top: 68px;*/
+/*        left: 0;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*    }*/
+
+/*    #content img {*/
+/*        top: 11px;*/
+/*        left: 21px;*/
+/*    }*/
+
+/*    #content p {*/
+/*        top: 42px;*/
+/*        left: 9px;*/
+/*        font-size: 15px;*/
+/*    }*/
+
+/*    !*skills*!*/
+
+/*    #skills h3 {*/
+/*        position: relative;*/
+/*        font-size: 17px;*/
+/*        left: 198px;*/
+/*        top: -25px;*/
+/*    }*/
+
+/*    #skills h1 {*/
+/*        position: relative;*/
+/*        left: 198px;*/
+/*        font-size: 20px;*/
+/*        width: 154px;*/
+/*    }*/
+
+/*    #skillFlex {*/
+/*        left: -54px;*/
+/*        right: 0;*/
+/*        margin: auto;*/
+/*        top: -42px;*/
+/*        width: 55vw;*/
+/*        height: 56vh;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(2) h4 {*/
+/*        left: 21vw;*/
+/*        top: -118px;*/
+/*        font-size: 14px;*/
+/*    }*/
+
+/*    #bigDiv div:nth-child(1) h4 {*/
+/*        left: 450px;*/
+/*        top: -118px;*/
+/*        font-size: 15px;*/
+/*    }*/
+
+/*    #skillFlex figure {*/
+/*        position: relative;*/
+/*        margin: 18px;*/
+/*        padding: 0;*/
+/*        width: 35%;*/
+/*        height: 24%;*/
+/*    }*/
+
+/*    #skillFlex img {*/
+/*        width: 45px;*/
+/*    }*/
+/*    #mysql {*/
+/*        width: 59px!important;*/
+/*    }*/
+
+/*    #skillFlex figure figcaption {*/
+/*        top: 53px;*/
+/*        font-size: 12px;*/
+/*    }*/
+
+/*    #bigDiv {*/
+/*        top: 16vh;*/
+/*        left: -13%;*/
+/*    }*/
+
+/*    #bigDiv div {*/
+/*        width: 19%;*/
+/*        height: 30%;*/
+/*    }*/
+
+/*    !*assignments*!*/
+
+/*    #assignments {*/
+/*        top: 15px;*/
+/*        font-size: 21px;*/
+
+/*    }*/
+
+/*    !*comented*!*/
+
+/*    .swiper-container {*/
+/*        width: 400px;*/
+/*        top: 93px;*/
+/*        height: 421px;*/
+/*    }*/
+
+
+/*    #skills aside {*/
+/*        position: relative;*/
+/*        left: -27%;*/
+/*        padding-top: 13%;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        width: 25%;*/
+/*    }*/
+
+/*    #skills aside {*/
+/*        margin: -40px;*/
+/*        position: relative;*/
+/*        left: -27%;*/
+/*        padding-top: 13%;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        width: 25%;*/
+/*    }*/
+
+/*    #about article {*/
+/*        position: relative;*/
+/*        left: -1vw;*/
+/*        font-family: 'Saira', sans-serif;*/
+/*        top: 10vw;*/
+/*        display: inline-block;*/
+/*    }*/
+/*}*/
+
+/*==============================================================*/
+
+/*@media all and (min-width: 320px) and (max-width: 424px) {*/
+@media only screen and (max-width: 600px){
+
+    header {
+        display: none;
+    }
+
+    header > nav {
+        display: none;
+    }
+
+    /*home*/
+    #home {
+        display: flex;
+        height: 90vh;
+        position: relative;
+        bottom: 0;
+        transition: 0.5s;
+    }
+
+    .main-img {
+        width: 13rem;
+        height: 13rem;
+        left:60px;
+        border-radius: 70%;
+        margin-top: 50px;
+        box-shadow: -10px 12px 30px -3px #c9c9ce;
+
+
+    }
+
+    .main-img img {
+        height: 70%;
+        width: 70%;
+        border-radius: 50%;
+    }
+
+    .multiText {
+        top:50vh;
+        left:21vw;
+        position: absolute;
+        color: #FFC25C;
+        font-size: 20px;
+    }
+
+
+    #home #span1 {
+        top: 45vh;
+        font-size: 19px;
+        left:12vh;
+    }
+
+    #home #span4 {
+        font-size: 15px;
+        left:76px;
+        top: 450px;
+    }
+
+    #home #span3 {
+        top: 55vh;
+        left: 80px;
+        font-size:15px;
+    }
+
+
+    #home button {
+        top: 536px;
+        left: 0;
+        position: absolute;
+        right: 0;
+        width: 100px;
+        font-size: 10px;
+        height: 43px;
+        margin: auto;
+
+    }
+
+    #socialLinks {
+        position: absolute;
+        top: -316px;
+        flex-direction: column;
+        padding: 10px;
+        width: 61px;
+        left: 300px;
+        margin: -1px;
+    }
+
+    #socialLinks .sLink {
+        width: 31px;
+        padding-top: 13px;
+    }
+
+    /*about*/
+    #about {
+        position: relative;
+        height: 81vh;
+        transition: 0.5s;
+    }
+
+    #dp2 {
+        width: 143px;
+        position: absolute;
+        right: 0;
+        bottom: 600px;
+        left: 0;
+        margin: auto;
+    }
+
+    #about article h3 {
+        font-size: 20px;
+        position: relative;
+        top: 210px;
+        left: 10px;
+    }
+
+    #about article h1 {
+        font-size: 15px;
+        width: 88vw;
+        text-align: center;
+        top: 200px;
+        left: -35px;
+        position: relative;
+    }
+
+    #about article p {
+        position: relative;
+        font-size: 13px;
+        width: 83vw;
+        left: 10px;
+        top: 200px;
+    }
+
+    #about button {
+        bottom: -250px;
+        left: 0;
+        right: 0;
+        width: 132px;
+        font-size: 17px;
+        height: 35px;
+    }
+
+    /*skills*/
+    #skills {
+        position: relative;
+        height: 76vh;
+    }
+
+    #skills h1 {
+        top: 60px;
+        left: 40vw;
+        font-size: 20px;
+    }
+
+    #content div {
+        margin: 17px;
+        padding: 7px;
+        width: 25%;
+        height: 30%;
+    }
+
+    #content {
+        position: absolute;
+        height: 44vh;
+        width: 52vh;
+        flex-direction: row-reverse;
+        top: 120px;
+        left: -24vw;
+        right: 0;
+        margin: auto;
+    }
+
+    #content img {
+        width: 32px;
+        position: relative;
+        top: 15px;
+        left: 16px;
+    }
+
+    #content p {
+        width: 80px;
+        top: 54px;
+        left: 19px;
+        font-size: 12px;
+    }
+
+    #skills #sec1 {
+        height: 59vh;
+    }
+
+    #skills #sec2 {
+        height: 41vh;
+    }
+
+
+    /*education*/
+    #education img {
+        width: 50px;
+    }
+
+    #education #education1 {
+        font-size: 15px;
+    }
+
+    #education #education2 {
+        font-size: 15px;
+    }
+
+    #education #education3 {
+        font-size: 15px;
+    }
+
+
+    /*projects*/
+    #projects {
+        position: relative;
+        height: 68vh;
+    }
+
+    #assignments {
+        top: 20px;
+        font-size: 20px;
+    }
+
+    .swiper-container {
+        width: 100vw;
+        top: 76px;
+        height: 381px;
+    }
+
+    #projects img {
+        height: 150px;
+        width: 200px;
+    }
+
+
+    /*contact*/
+    #contact {
+        height: 79vh;
+        background-color: #252734;
+        position: relative;
+        font-family: 'Saira', sans-serif;
+    }
+
+
+    #contact div:nth-child(2) {
+        top: -36px;
+        left: 6vw;
+    }
+
+
+    #contact > div:nth-child(2) > h1 {
+        font-size: 20px;
+    }
+
+    footer > address > img {
+        display: flex;
+        justify-content: center;
+        position: relative;
+        width: 43px;
+        right: 0;
+        left: 0;
+        margin: auto;
+        bottom: 134px;
+    }
+
+
+    /*commented*/
+    #skills aside {
+        position: absolute;
+        left: -80%;
+        padding-top: 13%;
+        font-family: 'Saira', sans-serif;
+        width: 25%;
+    }
+
+
+    #contact #send {
+        position: relative;
+        top: -49px;
+        left: 20vw;
+        display: inline;
+        z-index: 1;
+    }
+
+    #contact div:nth-child(3) {
+        display: none;
+    }
+
+}
+

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>19 Media Queries</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="assets/fontawesome/css/all.min.css">
+
+    <style>
+
+
+        header {
+            position: relative;
+            border: 1px solid green;
+            padding: 10px;
+            box-shadow: 0px 2px;
+        }
+
+        header>nav {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+        }
+
+        header>nav>ul {
+            margin: 0;
+        }
+
+        header>nav>ul>li {
+            display: inline-block;
+            padding: 5px;
+        }
+
+        header>nav>div {
+            display: none;
+        }
+
+        main>section {
+            display: flex;
+            justify-content: space-around;
+            margin-top: 20px;
+        }
+
+        main>section>div {
+            width: 300px;
+            height: 300px;
+            background-image: url("assets/image/Taromaru.gif");
+            background-size: cover;
+            border: 2px solid grey;
+        }
+
+        @media all and (max-width:700px) {
+            header>nav>ul {
+                display: none;
+            }
+            header>nav>div {
+                display: block;
+            }
+            main>section {
+                flex-direction: column;
+                display: block;
+            }
+            main>section>div {
+                width: 100%;
+
+            }
+
+            header>img{
+                display: initial;
+            }
+        }
+
+
+
+        footer{
+            text-align: center;
+            background-color: grey;
+        }
+
+        footer>h4{
+            margin: 0;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<!--<h1>-->
+<!--    Hello CSS-->
+<!--</h1>-->
+
+<header>
+    <img src="https://www.ijse.lk/images/logos/ijse.png" title="www.ijse.lk" alt="ijse.png" width="150">
+    <nav>
+        <ul>
+            <li><i class="fa-solid fa-house"></i> Home</li>
+            <li><i class="fa-solid fa-compass"></i> Service</li>
+            <li><i class="fa-solid fa-phone"></i> Contact</li>
+            <li><i class="fa-solid fa-building"></i> About us</li>
+        </ul>
+        <div>
+            <i class="fa-solid fa-bars"></i>
+        </div>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <div></div>
+        <div></div>
+        <div></div>
+
+    </section>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam animi dolorem, fuga ipsam iure nobis non placeat reprehenderit sed suscipit. Beatae culpa expedita, hic mollitia quae quis veniam voluptatem voluptatum?</p>
+
+</main>
+
+<footer><h4>Develped by IJSE</h4></footer>
+
+</body>
+</html>
